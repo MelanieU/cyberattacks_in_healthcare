@@ -1,0 +1,13 @@
+---
+title: "README"
+output: html_document
+---
+
+
+## Analysis of cyber attacks between 2017 and 2018
+
+This project aimed to get a better understandong of what sectors are mostly affected by cyber attacks. The information was collected by scraping hackmageddon <https://www.hackmageddon.com/> and glassdoor for selected companies <https://www.glassdoor.com/index.htm>.
+
+The Scrapy_hackmageddon and Scrapy_glassdoor files contain the script for scarping the respective websites. In addition, the Analysis folder includes the python scripts for the glassdoor and hackmageddon datasets analysis together with a powerpoint presentation of my results. 
+
+Enjoy!
