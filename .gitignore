@@ -1,0 +1,4 @@
+# ignoring images and text fies
+*.csv
+*.png
+*.txt
